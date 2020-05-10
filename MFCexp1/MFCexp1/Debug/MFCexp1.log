@@ -1,0 +1,2 @@
+﻿  MFCexp1View.cpp
+f:\week_1\mfcexp1\mfcexp1\mfcexp1view.cpp(98): error C4700: 使用了未初始化的局部变量“pDC”
