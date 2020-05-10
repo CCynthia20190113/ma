@@ -1,1 +1,4 @@
 # ma
+*.ncb
+*.db
+*.sdf
